@@ -139,6 +139,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 
 ## Internet
 - [Falkon](https://invent.kde.org/network/falkon) #C++ #KDE - Cross-platform Qt-based web browser
+- [qutebrowser](https://www.qutebrowser.org/) #Python - Keyboard-focused browser with a minimal GUI
 - [KTorrent](https://invent.kde.org/network/ktorrent) #C++ #KDE - Powerful BitTorrent client
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
 - [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
@@ -280,3 +281,4 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KItinerary Command Line Extractor](https://apps.kde.org/kitinerary-extractor/) #KDE - KItinerary command line extractor
 - [Vakzination](https://apps.kde.org/vakzination/) #KDE - Manage your vaccination certificates
 - [Kookbook](https://apps.kde.org/kookbook/) #KDE - Recipe manager
+- [KeePassXC](https://keepassxc.org/) #C++ - Cross-Platform Password Manager
