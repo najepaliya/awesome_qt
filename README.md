@@ -33,8 +33,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Blinken](https://apps.kde.org/blinken/) #KDE - Memory Enhancement Game
 - [Cantor](https://apps.kde.org/cantor/) #KDE - Frontend to Mathematical Software
 - [GCompris](https://apps.kde.org/gcompris/) #KDE - Educational Game for Children
-- [KAlgebra](https://apps.kde.org/kalgebra/) #KDE - Graph Calculator
 - [KAlgebra Mobile](https://apps.kde.org/kalgebramobile/) #KDE - Pocket Graph Calculator
+- [KAlgebra](https://apps.kde.org/kalgebra/) #KDE - Graph Calculator
 - [Kalzium](https://apps.kde.org/kalzium/) #KDE - Periodic Table of Elements
 - [Kanagram](https://apps.kde.org/kanagram/) #KDE - Letter Order Game
 - [KBibTeX](https://apps.kde.org/kbibtex/) #KDE - BibTeX Editor
@@ -57,6 +57,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [RKward](https://apps.kde.org/rkward/) #KDE - Statistics with R
 - [Rocs](https://apps.kde.org/rocs/) #KDE - Rocs Graph Theory
 - [Step](https://apps.kde.org/step/) #KDE - Interactive Physical Simulator
+
 
 ## Games
 - [Atlantik](https://apps.kde.org/atlantik/) #KDE - Monopoly®-like Board Games
@@ -93,8 +94,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KPatience](https://apps.kde.org/kpat/) #KDE - Patience Card Game
 - [KReversi](https://apps.kde.org/kreversi/) #KDE - Reversi Board Game
 - [KSame](https://apps.kde.org/ksame/) #KDE - Board Game
-- [KsirK](https://apps.kde.org/ksirk/) #KDE - World Domination Strategy Game
 - [KShisen](https://apps.kde.org/kshisen/) #KDE - Shisen-Sho Mahjongg-like Tile Game
+- [KsirK](https://apps.kde.org/ksirk/) #KDE - World Domination Strategy Game
 - [KSnakeDuel](https://apps.kde.org/ksnakeduel/) #KDE - A race in hyperspace
 - [KSpaceDuel](https://apps.kde.org/kspaceduel/) #KDE - Space Arcade Game
 - [KSquares](https://apps.kde.org/ksquares/) #KDE - Connect the dots to create squares
@@ -106,6 +107,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Picmi](https://apps.kde.org/picmi/) #KDE - Logic Game
 - [Potato Guy](https://apps.kde.org/ktuberling/) #KDE - Picture Game for Children
 - [Rolisteam RPG Client](https://apps.kde.org/rolisteam/) #KDE - Client Companion to Rolisteam Server
+
 
 ## Graphics
 - [digiKam](https://apps.kde.org/digikam/) #KDE - Photo Management Program
@@ -133,6 +135,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Skanpage](https://apps.kde.org/skanpage/) #KDE - Image Scanning Application
 - [SymbolEditor](https://apps.kde.org/symboleditor/) #KDE - Cross Stitch Symbol Editor
 
+
 ## Internet
 - [Akregator](https://apps.kde.org/akregator/) #KDE - Feed Reader
 - [Alligator](https://apps.kde.org/alligator/) #KDE - Feed Reader
@@ -153,14 +156,15 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KTorrent](https://apps.kde.org/ktorrent/) #KDE - BitTorrent Client
 - [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
 - [NeoChat](https://apps.kde.org/neochat/) #KDE - Matrix Client
-- [PIM Data Exporter](https://apps.kde.org/pimdataexporter/) #KDE - Saves and restores all data from PIM apps
 - [Phone](https://apps.kde.org/phone.dialer/) #KDE - Send and receive phone calls
+- [PIM Data Exporter](https://apps.kde.org/pimdataexporter/) #KDE - Saves and restores all data from PIM apps
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
+- [qutebrowser](https://www.qutebrowser.org/) #Python - Keyboard-focused browser with a minimal GUI
 - [Ruqola](https://apps.kde.org/ruqola/) #KDE - Rocket.Chat client
 - [Spacebar](https://apps.kde.org/spacebar/) #KDE - SMS/MMS Application
 - [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
-- [qutebrowser](https://www.qutebrowser.org/) #Python - Keyboard-focused browser with a minimal GUI
+
 
 ## Multimedia
 - [Audex](https://apps.kde.org/audex/) #KDE - CDDA Ripping
@@ -175,15 +179,16 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Kamoso](https://apps.kde.org/kamoso/) #KDE - Camera
 - [Kdenlive](https://apps.kde.org/kdenlive/) #KDE - Video Editor
 - [Kid3](https://apps.kde.org/kid3/) #KDE - Audio Tagger
-- [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
 - [KMix](https://apps.kde.org/kmix/) #KDE - Sound Mixer
+- [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
 - [Kwave](https://apps.kde.org/kwave/) #KDE - Sound Editor
-- [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
 - [Plasma Camera](https://apps.kde.org/plasma.camera/) #KDE - Camera Application
+- [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
 - [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
 - [Subtitle Composer](https://apps.kde.org/subtitlecomposer/) #KDE - Subtitle Editor
 - [VLC](https://github.com/videolan/vlc) #C #C++ - An open source and cross platform multimedia player
 - [Vvave](https://apps.kde.org/vvave/) #KDE - Audio Player
+
 
 ## Office
 - [Basket](https://apps.kde.org/basket/) #KDE - Notes and to-dos organizer
@@ -195,8 +200,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Kalendar](https://apps.kde.org/kalendar/) #KDE - Calendar application
 - [KBibTeX](https://apps.kde.org/kbibtex/) #KDE - BibTeX Editor
 - [KDE Itinerary](https://apps.kde.org/itinerary/) #KDE - Itinerary management
-- [KEXI](https://apps.kde.org/kexi-3.3/) #KDE - Visual database apps builder
 - [KEuroCalc](https://apps.kde.org/keurocalc/) #KDE - Currency converter and calculator
+- [KEXI](https://apps.kde.org/kexi-3.3/) #KDE - Visual database apps builder
 - [Kile](https://apps.kde.org/kile/) #KDE - LaTeX Frontend
 - [KItinerary Command Line Extractor](https://apps.kde.org/kitinerary-extractor/) #KDE - KItinerary command line extractor
 - [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
@@ -212,6 +217,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Skrooge](https://apps.kde.org/skrooge/) #KDE - Manage your money
 - [Tellico](https://apps.kde.org/tellico/) #KDE - Collection Manager
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
+
 
 ## System
 - [Apper](https://apps.kde.org/apper/) #KDE - Software Management
@@ -233,6 +239,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [QMLKonsole](https://apps.kde.org/mobile.qmlkonsole/) #KDE - Terminal
 - [QtPass](https://qtpass.org/) #C++ - GUI for pass, the standard UNIX password manager
 - [Yakuake](https://apps.kde.org/yakuake/) #KDE - Drop-down Terminal
+
 
 ## Utilities
 - [Ark](https://apps.kde.org/ark/) #KDE - Archiving Tool
@@ -261,8 +268,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Kronometer](https://apps.kde.org/kronometer/) #KDE - Chronometer
 - [Krusader](https://apps.kde.org/krusader/) #KDE - File Manager
 - [KTeaTime](https://apps.kde.org/kteatime/) #KDE - Tea Cooker
-- [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
 - [KTimer](https://apps.kde.org/ktimer/) #KDE - Countdown Launcher
+- [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
 - [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
 - [KWrite](https://apps.kde.org/kwrite/) #KDE - Text Editor
 - [Nota](https://apps.kde.org/nota/) #KDE - Simple Text Editor
