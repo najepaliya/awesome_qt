@@ -144,20 +144,19 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Choqok](https://apps.kde.org/choqok/) #KDE - Micro-blogging Client
 - [Falkon](https://apps.kde.org/falkon/) #KDE - Web Browser
 - [Falkon](https://invent.kde.org/network/falkon) #C++ #KDE - Cross-platform Qt-based web browser
-- [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
-- [KGet](https://apps.kde.org/kget/) #KDE - Download Manager
-- [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
-- [KRDC](https://apps.kde.org/krdc/) #KDE - Remote Desktop Client
-- [KTorrent](https://apps.kde.org/ktorrent/) #KDE - BitTorrent Client
-- [KTorrent](https://invent.kde.org/network/ktorrent) #C++ #KDE - Powerful BitTorrent client
-- [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
 - [Kaidan](https://apps.kde.org/kaidan/) #KDE - Jabber IM Client
 - [Kasts](https://apps.kde.org/kasts/) #KDE - Podcast Application
+- [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
+- [KGet](https://apps.kde.org/kget/) #KDE - Download Manager
 - [Kirogi](https://apps.kde.org/kirogi/) #KDE - Drone ground control
+- [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
 - [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
 - [Konversation](https://apps.kde.org/konversation/) #KDE - IRC Client
 - [Kopete](https://apps.kde.org/kopete/) #KDE - Instant Messenger
+- [KRDC](https://apps.kde.org/krdc/) #KDE - Remote Desktop Client
 - [Krfb](https://apps.kde.org/krfb/) #KDE - Desktop Sharing (VNC)
+- [KTorrent](https://apps.kde.org/ktorrent/) #KDE - BitTorrent Client
+- [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
 - [NeoChat](https://apps.kde.org/neochat/) #KDE - Matrix Client
 - [PIM Data Exporter](https://apps.kde.org/pimdataexporter/) #KDE - Saves and restores all data from PIM apps
 - [Phone](https://apps.kde.org/phone.dialer/) #KDE - Send and receive phone calls
@@ -166,6 +165,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
+- [qutebrowser](https://www.qutebrowser.org/) #Python - Keyboard-focused browser with a minimal GUI
 
 ## Multimedia
 - [Audex](https://apps.kde.org/audex/) #KDE - CDDA Ripping
@@ -228,6 +228,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Index](https://apps.kde.org/index-fm/) #KDE - File Manager
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) #KDE - Partition Editor
 - [KDiskFree](https://apps.kde.org/kdf/) #KDE - View Disk Usage
+- [KeePassXC](https://keepassxc.org/) #C++ - Cross-Platform Password Manager
 - [KSysGuard](https://apps.kde.org/ksysguard/) #KDE - System Monitor
 - [KSystemLog](https://apps.kde.org/ksystemlog/) #KDE - System Log Viewer
 - [KWalletManager](https://apps.kde.org/kwalletmanager5/) #KDE - KDE Wallet Management Tool
