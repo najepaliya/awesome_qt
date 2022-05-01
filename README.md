@@ -231,6 +231,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Package Manager
 - [Plasma System Monitor](https://apps.kde.org/plasma-systemmonitor/) #KDE - System Monitor
 - [QMLKonsole](https://apps.kde.org/mobile.qmlkonsole/) #KDE - Terminal
+- [QtPass](https://qtpass.org/) #C++ - GUI for pass, the standard UNIX password manager
 - [Yakuake](https://apps.kde.org/yakuake/) #KDE - Drop-down Terminal
 
 ## Utilities
