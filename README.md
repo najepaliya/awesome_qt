@@ -165,6 +165,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
 
+## Medical / Dental
+ - [Clear.Dental](https://clear.dental/) An Open Source Dental EHR Suite
 
 ## Multimedia
 - [Audex](https://apps.kde.org/audex/) #KDE - CDDA Ripping
