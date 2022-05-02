@@ -184,6 +184,8 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Kwave](https://apps.kde.org/kwave/) #KDE - Sound Editor
 - [Plasma Camera](https://apps.kde.org/plasma.camera/) #KDE - Camera Application
 - [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
+- [Plex Media Payer](https://plex.tv) #C++ - Front end for Plex Media Server using Qt and qtwebengine
+- [Qmmp](https://qmmp.ylsoftware.com/) #C++ - Qt based media player
 - [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
 - [Subtitle Composer](https://apps.kde.org/subtitlecomposer/) #KDE - Subtitle Editor
 - [VLC](https://github.com/videolan/vlc) #C #C++ - An open source and cross platform multimedia player
@@ -281,4 +283,6 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Sweeper](https://apps.kde.org/sweeper/) #KDE - System Cleaner
 - [Vakzination](https://apps.kde.org/vakzination/) #KDE - Manage your vaccination certificates
 - [Weather](https://apps.kde.org/kweather/) #KDE - View real-time weather forecasts and other information
+- [Yubikey-manager-qt](https://developers.yubico.com/yubikey-manager-qt/) #C++ - Manager application for USB Yubikeys
+- [Yubioath-desktop](https://developers.yubico.com/yubioath-desktop/) #Python - Utility for generating OATH TOTP and HOTP one-time password codes for Yubikeys
 - [Zanshin](https://apps.kde.org/zanshin/) #KDE - To Do Management Application
