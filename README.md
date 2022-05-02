@@ -125,10 +125,13 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KRuler](https://apps.kde.org/kruler/) #KDE - Screen Ruler
 - [KXStitch](https://apps.kde.org/kxstitch/) #KDE - Cross Stitch Editor
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD) #C++ - Open source 2D CAD software
+- [nomacs](https://github.com/nomacs/nomacs) #C++ - Minimalist image viewer with basic editing capabilities
 - [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
 - [Peruse](https://apps.kde.org/peruse/) #KDE - Comic Book Reader
+- [PhotoQt](https://photoqt.org/) #C++ - Highly configurable image viewer with a simple interface and basic editing capabilities
 - [Pix](https://apps.kde.org/pix/) #KDE - Image Gallery
 - [pvfViewer](https://apps.kde.org/pvfviewer/) #KDE - PC Stitch Pattern Viewer
+- [qimgv](https://github.com/easymodo/qimgv) #C++ - Simple image viewer with optional video Support
 - [Scribus](https://github.com/scribusproject/scribus) #C++ - Libre desktop publishing software
 - [Showfoto](https://apps.kde.org/showfoto/) #KDE - Photo Viewer and Editor
 - [Skanlite](https://apps.kde.org/skanlite/) #KDE - Image Scanning Application
@@ -189,6 +192,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Plex Media Payer](https://plex.tv) #C++ - Front end for Plex Media Server using Qt and qtwebengine
 - [Qmmp](https://qmmp.ylsoftware.com/) #C++ - Qt based media player
 - [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
+- [SMPlayer](https://www.smplayer.info/) #C++ - A feature-rich and cross platform multimedia player which acts as a GUI for both the MPlayer and MPV multimedia engines
 - [Subtitle Composer](https://apps.kde.org/subtitlecomposer/) #KDE - Subtitle Editor
 - [VLC](https://github.com/videolan/vlc) #C #C++ - An open source and cross platform multimedia player
 - [Vvave](https://apps.kde.org/vvave/) #KDE - Audio Player
@@ -238,7 +242,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KSystemLog](https://apps.kde.org/ksystemlog/) #KDE - System Log Viewer
 - [KWalletManager](https://apps.kde.org/kwalletmanager5/) #KDE - KDE Wallet Management Tool
 - [liquidshell](https://apps.kde.org/liquidshell/) #KDE - liquidshell is an alternative to plasmashell
-- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Package Manager
+- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Graphical Package Manager For Debian and Ubuntu-based Linux Distributions. 
 - [Plasma System Monitor](https://apps.kde.org/plasma-systemmonitor/) #KDE - System Monitor
 - [QMLKonsole](https://apps.kde.org/mobile.qmlkonsole/) #KDE - Terminal
 - [QtPass](https://qtpass.org/) #C++ - GUI for pass, the standard UNIX password manager
@@ -284,6 +288,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Spectacle](https://apps.kde.org/spectacle/) #KDE - Screenshot Capture Utility
 - [Sweeper](https://apps.kde.org/sweeper/) #KDE - System Cleaner
 - [Vakzination](https://apps.kde.org/vakzination/) #KDE - Manage your vaccination certificates
+- [Vorta](https://vorta.borgbase.com/) #Python - Backup client and frontend to [BorgBackup](https://www.borgbackup.org/) for macOS and Linux desktops
 - [Weather](https://apps.kde.org/kweather/) #KDE - View real-time weather forecasts and other information
 - [Yubikey-manager-qt](https://developers.yubico.com/yubikey-manager-qt/) #C++ - Manager application for USB Yubikeys
 - [Yubioath-desktop](https://developers.yubico.com/yubioath-desktop/) #Python - Utility for generating OATH TOTP and HOTP one-time password codes for Yubikeys
