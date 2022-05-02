@@ -110,6 +110,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 
 
 ## Graphics
+- [Cura](https://ultimaker.com/de/software/ultimaker-cura) - Slicer and 3D model processor for 3D printers
 - [digiKam](https://apps.kde.org/digikam/) #KDE - Photo Management Program
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) #C++ - Open source, parametric 3D CAD software
 - [Gwenview](https://apps.kde.org/gwenview/) #KDE - KDE Image Viewer
@@ -126,6 +127,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KXStitch](https://apps.kde.org/kxstitch/) #KDE - Cross Stitch Editor
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD) #C++ - Open source 2D CAD software
 - [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
+- [OpenSCAD](https://openscad.org) - 3D Solid CAD modeller
 - [Peruse](https://apps.kde.org/peruse/) #KDE - Comic Book Reader
 - [Pix](https://apps.kde.org/pix/) #KDE - Image Gallery
 - [pvfViewer](https://apps.kde.org/pvfviewer/) #KDE - PC Stitch Pattern Viewer
@@ -134,7 +136,6 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Skanlite](https://apps.kde.org/skanlite/) #KDE - Image Scanning Application
 - [Skanpage](https://apps.kde.org/skanpage/) #KDE - Image Scanning Application
 - [SymbolEditor](https://apps.kde.org/symboleditor/) #KDE - Cross Stitch Symbol Editor
-
 
 ## Internet
 - [Akregator](https://apps.kde.org/akregator/) #KDE - Feed Reader
@@ -164,6 +165,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Spacebar](https://apps.kde.org/spacebar/) #KDE - SMS/MMS Application
 - [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
+- [Zoom](https://zoom.us) - Videoconferencing software
 
 ## Medical / Dental
  - [Clear.Dental](https://clear.dental/) An Open Source Dental EHR Suite
@@ -215,6 +217,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KOrganizer](https://apps.kde.org/korganizer/) #KDE - Personal Organizer
 - [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
 - [Lokalize](https://apps.kde.org/lokalize/) #KDE - Computer-Aided Translation System
+- [LyX](https://lyx.org) - Word processor (or rather document processor)
 - [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
 - [Phonebook](https://apps.kde.org/phonebook/) #KDE - View and edit contacts
 - [Plan](https://apps.kde.org/calligraplan/) #KDE - Project Management
