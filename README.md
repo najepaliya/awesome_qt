@@ -9,6 +9,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Clazy](https://apps.kde.org/clazy/) #KDE - A Clang compiler plugin which emits warnings related to Qt best practices
 - [ELF Dissector](https://apps.kde.org/elf-dissector/) #KDE - ELF binary inspector
 - [Heaptrack](https://apps.kde.org/heaptrack/) #KDE - Profiler Frontend
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) - Tool for managing installation of the various JetBrains IDEs and applications
 - [KAppTemplate](https://apps.kde.org/kapptemplate/) #KDE - App Code Template Generator
 - [Kate](https://apps.kde.org/kate/) #KDE - Advanced Text Editor
 - [KCachegrind](https://apps.kde.org/kcachegrind/) #KDE - Profiler Frontend
@@ -106,6 +107,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Palapeli](https://apps.kde.org/palapeli/) #KDE - Jigsaw puzzle game
 - [Picmi](https://apps.kde.org/picmi/) #KDE - Logic Game
 - [Potato Guy](https://apps.kde.org/ktuberling/) #KDE - Picture Game for Children
+- [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Front end for installing and managing Proton-GE for Steam and Wine-GE for Lutris.
 - [Rolisteam RPG Client](https://apps.kde.org/rolisteam/) #KDE - Client Companion to Rolisteam Server
 
 
@@ -184,6 +186,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KMix](https://apps.kde.org/kmix/) #KDE - Sound Mixer
 - [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
 - [Kwave](https://apps.kde.org/kwave/) #KDE - Sound Editor
+- [mpc-qt](https://mpc-qt.github.io/) - Multimedia player with a focus on reproducing the interface of mpc-qt.
 - [Plasma Camera](https://apps.kde.org/plasma.camera/) #KDE - Camera Application
 - [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
 - [Plex Media Payer](https://plex.tv) #C++ - Front end for Plex Media Server using Qt and qtwebengine
@@ -247,6 +250,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 
 ## Utilities
 - [Ark](https://apps.kde.org/ark/) #KDE - Archiving Tool
+- [Barrier](https://github.com/debauchee/barrier) - Fork of Synergy that allows you to connect multiple computers via a software KVM with a Qt based GUI component
 - [Calculator](https://apps.kde.org/kalk/) #KDE - A feature rich calculator
 - [Calindori](https://apps.kde.org/calindori/) #KDE - Calendar
 - [Clock](https://apps.kde.org/kclock/) #KDE - Set alarms and timers, use a stopwatch, and manage world clocks
