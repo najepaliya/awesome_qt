@@ -20,6 +20,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [JuK](https://apps.kde.org/juk/) #KDE - Music Player
 - [Kaffeine](https://apps.kde.org/kaffeine/) #KDE - Media Player
 - [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
+- [Qmmp](https://qmmp.ylsoftware.com/) - Qt based media player
 - [VLC](https://github.com/videolan/vlc) #Independent - An open source and cross platform multimedia player
 - [Vvave](https://apps.kde.org/vvave/) #NX - Audio Player
 
@@ -84,6 +85,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 
 
 ## Desktop Interconnectivity
+- [Barrier](https://github.com/debauchee/barrier) - Fork of Synergy that allows you to connect multiple computers via a software KVM with a Qt based GUI component
 - [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
 - [KRDC](https://apps.kde.org/krdc/) #KDE - Remote Desktop Client
 - [Krfb](https://apps.kde.org/krfb/) #KDE - Desktop Sharing (VNC)
@@ -94,6 +96,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Clazy](https://apps.kde.org/clazy/) #KDE - A Clang compiler plugin which emits warnings related to Qt best practices
 - [ELF Dissector](https://apps.kde.org/elf-dissector/) #KDE - ELF binary inspector
 - [Heaptrack](https://apps.kde.org/heaptrack/) #KDE - Profiler Frontend
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) - Tool for managing installation of the various JetBrains IDEs and applications
 - [KAppTemplate](https://apps.kde.org/kapptemplate/) #KDE - App Code Template Generator
 - [KCachegrind](https://apps.kde.org/kcachegrind/) #KDE - Profiler Frontend
 - [KDebugSettings](https://apps.kde.org/kdebugsettings/) #KDE - Debug settings
@@ -226,6 +229,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Palapeli](https://apps.kde.org/palapeli/) #KDE - Jigsaw puzzle game
 - [Picmi](https://apps.kde.org/picmi/) #KDE - Logic Game
 - [Potato Guy](https://apps.kde.org/ktuberling/) #KDE - Picture Game for Children
+- [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Front end for installing and managing Proton-GE for Steam and Wine-GE for Lutris
 - [Rolisteam RPG Client](https://apps.kde.org/rolisteam/) #KDE - Client Companion to Rolisteam Server
 
 
@@ -388,7 +392,9 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Dragon Player](https://apps.kde.org/dragonplayer/) #KDE - Video Player
 - [Haruna Video Player](https://apps.kde.org/haruna/) #KDE - Open source video player built with Qt/QML and libmpv.
 - [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
+- [mpc-qt](https://mpc-qt.github.io/) - Multimedia player with a focus on reproducing the interface of mpc-qt
 - [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
+- [Plex Media Payer](https://plex.tv) - Front end for Plex Media Server using Qt and qtwebengine
 - [VLC](https://github.com/videolan/vlc) #Independent - An open source and cross platform multimedia player
 
 
