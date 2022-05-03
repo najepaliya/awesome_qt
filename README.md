@@ -4,28 +4,134 @@
 A comprehensive list of applications made with the cross platform Qt framework.
 
 
+## *TeX Editors
+- [KBibTeX](https://apps.kde.org/kbibtex/) #KDE - BibTeX Editor
+- [Kile](https://apps.kde.org/kile/) #KDE - LaTeX Frontend
+
+
+## Accessibility Enhancement
+- [KMag](https://apps.kde.org/kmag/) #KDE - Screen Magnifier
+- [KRuler](https://apps.kde.org/kruler/) #KDE - Screen Ruler
+
+
+## Audio Players
+- [AudioTube](https://apps.kde.org/audiotube/) #KDE - Convergent YouTube Music client
+- [Elisa](https://apps.kde.org/elisa/) #KDE - Music Player
+- [JuK](https://apps.kde.org/juk/) #KDE - Music Player
+- [Kaffeine](https://apps.kde.org/kaffeine/) #KDE - Media Player
+- [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
+- [VLC](https://github.com/videolan/vlc) #Independent - An open source and cross platform multimedia player
+- [Vvave](https://apps.kde.org/vvave/) #NX - Audio Player
+
+
+## Audio Utilities
+- [Audex](https://apps.kde.org/audex/) #KDE - CDDA Ripping
+- [K3b](https://apps.kde.org/k3b/) #KDE - Disk Burning
+- [Kid3](https://apps.kde.org/kid3/) #KDE - Audio Tagger
+- [KMix](https://apps.kde.org/kmix/) #KDE - Sound Mixer
+- [KMouth](https://apps.kde.org/kmouth/) #KDE - Speech Synthesizer Frontend
+- [Kwave](https://apps.kde.org/kwave/) #KDE - Sound Editor
+- [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
+
+
+## Authentication Management
+- [Keysmith](https://apps.kde.org/keysmith/) #KDE - Two-factor code generator for Plasma Mobile and Desktop
+- [Yubikey-manager-qt](https://developers.yubico.com/yubikey-manager-qt/) #Independent - Manager application for USB Yubikeys
+- [Yubioath-desktop](https://developers.yubico.com/yubioath-desktop/) #Independent - Utility for generating OATH TOTP and HOTP one-time password codes for Yubikeys
+
+
+## Calculators
+- [Calculator](https://apps.kde.org/kalk/) #KDE - A feature rich calculator
+- [KAlgebra](https://apps.kde.org/kalgebra/) #KDE - Graph Calculator
+- [KAlgebra Mobile](https://apps.kde.org/kalgebramobile/) #KDE - Pocket Graph Calculator
+- [KCalc](https://apps.kde.org/kcalc/) #KDE - Scientific Calculator
+- [KEuroCalc](https://apps.kde.org/keurocalc/) #KDE - Currency converter and calculator
+
+
+## Calendars
+- [Calindori](https://apps.kde.org/calindori/) #KDE - Calendar
+- [Kalendar](https://apps.kde.org/kalendar/) #KDE - Calendar application
+- [Kontact](https://apps.kde.org/kontact/) #KDE - Personal Information Manager
+
+
+## Camera
+- [Kamoso](https://apps.kde.org/kamoso/) #KDE - Camera
+- [Plasma Camera](https://apps.kde.org/plasma.camera/) #KDE - Camera Application
+
+
+## Clocks and Timers
+- [Clock](https://apps.kde.org/kclock/) #KDE - Set alarms and timers, use a stopwatch, and manage world clocks
+- [KAlarm](https://apps.kde.org/kalarm/) #KDE - Personal Alarm Scheduler
+- [KTeaTime](https://apps.kde.org/kteatime/) #KDE - Tea Cooker
+- [KTimer](https://apps.kde.org/ktimer/) #KDE - Countdown Launcher
+- [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
+
+
+## Computer-aided Designers
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) #Independent - Open source, parametric 3D CAD software
+- [LibreCAD](https://github.com/LibreCAD/LibreCAD) #Independent - Open source 2D CAD software
+
+
+## Design Utilities
+- [Ikona](https://apps.kde.org/ikona/) #KDE - Icon Preview Utility
+- [KColorChooser](https://apps.kde.org/kcolorchooser/) #KDE - Color Chooser
+- [KImageMapEditor](https://apps.kde.org/kimagemapeditor/) #KDE - HTML Image Map Editor
+- [Kontrast](https://apps.kde.org/kontrast/) #KDE - A Color Contrast Checker
+- [KUIViewer](https://apps.kde.org/kuiviewer/) #KDE - Qt Designer UI File Viewer
+- [KXStitch](https://apps.kde.org/kxstitch/) #KDE - Cross Stitch Editor
+- [pvfViewer](https://apps.kde.org/pvfviewer/) #KDE - PC Stitch Pattern Viewer
+- [SymbolEditor](https://apps.kde.org/symboleditor/) #KDE - Cross Stitch Symbol Editor
+
+
+## Desktop Interconnectivity
+- [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
+- [KRDC](https://apps.kde.org/krdc/) #KDE - Remote Desktop Client
+- [Krfb](https://apps.kde.org/krfb/) #KDE - Desktop Sharing (VNC)
+
+
 ## Development
 - [Cervisia](https://apps.kde.org/cervisia/) #KDE - CVS Frontend
 - [Clazy](https://apps.kde.org/clazy/) #KDE - A Clang compiler plugin which emits warnings related to Qt best practices
 - [ELF Dissector](https://apps.kde.org/elf-dissector/) #KDE - ELF binary inspector
 - [Heaptrack](https://apps.kde.org/heaptrack/) #KDE - Profiler Frontend
 - [KAppTemplate](https://apps.kde.org/kapptemplate/) #KDE - App Code Template Generator
-- [Kate](https://apps.kde.org/kate/) #KDE - Advanced Text Editor
 - [KCachegrind](https://apps.kde.org/kcachegrind/) #KDE - Profiler Frontend
 - [KDebugSettings](https://apps.kde.org/kdebugsettings/) #KDE - Debug settings
 - [kdesrc-build](https://apps.kde.org/kdesrc_build/) #KDE - Tool to allow you to easily build KDE software from its source repositories
 - [kdesvn](https://apps.kde.org/kdesvn/) #KDE - Subversion Revision Control
-- [KDevelop](https://apps.kde.org/kdevelop/) #KDE - Integrated Development Environment
 - [KDiff3](https://apps.kde.org/kdiff3/) #KDE - Diff/Patch Frontend
-- [KImageMapEditor](https://apps.kde.org/kimagemapeditor/) #KDE - HTML Image Map Editor
+- [KEXI](https://apps.kde.org/kexi-3.3/) #KDE - Visual database apps builder
 - [Kirigami Gallery](https://apps.kde.org/kirigami2.gallery/) #KDE - Widget Browser for Kirigami
 - [Kompare](https://apps.kde.org/kompare/) #KDE - Diff/Patch Frontend
 - [KUIViewer](https://apps.kde.org/kuiviewer/) #KDE - Qt Designer UI File Viewer
-- [Lokalize](https://apps.kde.org/lokalize/) #KDE - Computer-Aided Translation System
 - [Massif-Visualizer](https://apps.kde.org/massif-visualizer/) #KDE - Profiler Frontend
-- [QtCreator](https://github.com/qt-creator/qt-creator) #C++ - A cross-platform Qt IDE
+- [Okteta](https://apps.kde.org/okteta/) #KDE - Hex Editor
 - [Rust Qt Binding Generator](https://apps.kde.org/rust_qt_binding_generator/) #KDE - Programming Binding Generator
-- [Umbrello](https://apps.kde.org/umbrello/) #KDE - UML Modeller
+
+
+## Disk Utilities
+- [Ark](https://apps.kde.org/ark/) #KDE - Archiving Tool
+- [Filelight](https://apps.kde.org/filelight/) #KDE - Disk Usage Statistics
+- [ISO Image Writer](https://apps.kde.org/isoimagewriter/) #KDE - Write an ISO Image to a USB Disk
+- [KBackup](https://apps.kde.org/kbackup/) #KDE - Backup Program
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) #KDE - Partition Editor
+- [KDiskFree](https://apps.kde.org/kdf/) #KDE - View Disk Usage
+- [KFind](https://apps.kde.org/kfind/) #KDE - Find Files/Folders
+- [KFloppy](https://apps.kde.org/kfloppy/) #KDE - Floppy Formatter
+- [KRename](https://apps.kde.org/krename/) #KDE - Batch File Renamer
+- [Smb4K](https://apps.kde.org/smb4k/) #KDE - Advanced Network Browser for SAMBA
+- [Sweeper](https://apps.kde.org/sweeper/) #KDE - System Cleaner
+
+
+## Document Viewers
+- [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
+- [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
+- [Peruse](https://apps.kde.org/peruse/) #KDE - Comic Book Reader
+- [Shelf](https://mauikit.org/apps/shelf/) #NX - Document Viewer
+
+
+## Download Managers
+- [KGet](https://apps.kde.org/kget/) #KDE - Download Manager
 
 
 ## Education
@@ -33,8 +139,6 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Blinken](https://apps.kde.org/blinken/) #KDE - Memory Enhancement Game
 - [Cantor](https://apps.kde.org/cantor/) #KDE - Frontend to Mathematical Software
 - [GCompris](https://apps.kde.org/gcompris/) #KDE - Educational Game for Children
-- [KAlgebra Mobile](https://apps.kde.org/kalgebramobile/) #KDE - Pocket Graph Calculator
-- [KAlgebra](https://apps.kde.org/kalgebra/) #KDE - Graph Calculator
 - [Kalzium](https://apps.kde.org/kalzium/) #KDE - Periodic Table of Elements
 - [Kanagram](https://apps.kde.org/kanagram/) #KDE - Letter Order Game
 - [KBibTeX](https://apps.kde.org/kbibtex/) #KDE - BibTeX Editor
@@ -46,7 +150,6 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KLettres](https://apps.kde.org/klettres/) #KDE - Learn The Alphabet
 - [KmPlot](https://apps.kde.org/kmplot/) #KDE - Mathematical Function Plotter
 - [KStars](https://apps.kde.org/kstars/) #KDE - Desktop Planetarium
-- [KTechlab](https://apps.kde.org/ktechlab/) #KDE - IDE for microcontrollers and electronics
 - [KTouch](https://apps.kde.org/ktouch/) #KDE - Touch Typing Tutor
 - [KTurtle](https://apps.kde.org/kturtle/) #KDE - Educational Programming Environment
 - [KWordQuiz](https://apps.kde.org/kwordquiz/) #KDE - Flash Card Trainer
@@ -57,6 +160,23 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [RKward](https://apps.kde.org/rkward/) #KDE - Statistics with R
 - [Rocs](https://apps.kde.org/rocs/) #KDE - Rocs Graph Theory
 - [Step](https://apps.kde.org/step/) #KDE - Interactive Physical Simulator
+
+
+## Encryption Management
+- [KGpg](https://apps.kde.org/kgpg/) #KDE - Encryption Tool
+- [Kleopatra](https://apps.kde.org/kleopatra/) #KDE - Certificate Manager and Unified Crypto GUI
+
+
+## File Managers
+- [Dolphin](https://apps.kde.org/dolphin/) #KDE - File Manager
+- [Index](https://apps.kde.org/index-fm/) #NX - File Manager
+- [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
+- [Krusader](https://apps.kde.org/krusader/) #KDE - File Manager
+
+
+## Finance
+- [KMyMoney](https://apps.kde.org/kmymoney/) #KDE - Personal Finance Manager
+- [Skrooge](https://apps.kde.org/skrooge/) #KDE - Manage your money
 
 
 ## Games
@@ -109,187 +229,176 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Rolisteam RPG Client](https://apps.kde.org/rolisteam/) #KDE - Client Companion to Rolisteam Server
 
 
-## Graphics
-- [digiKam](https://apps.kde.org/digikam/) #KDE - Photo Management Program
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) #C++ - Open source, parametric 3D CAD software
-- [Gwenview](https://apps.kde.org/gwenview/) #KDE - KDE Image Viewer
-- [Ikona](https://apps.kde.org/ikona/) #KDE - Icon Preview Utility
-- [KColorChooser](https://apps.kde.org/kcolorchooser/) #KDE - Color Chooser
-- [KGeoTag](https://apps.kde.org/kgeotag/) #KDE - Photo geotagging program
-- [KGraphViewer](https://apps.kde.org/kgraphviewer/) #KDE - Graphviz DOT graph viewer
-- [Koko](https://apps.kde.org/koko/) #KDE - Image Gallery
-- [KolourPaint](https://apps.kde.org/kolourpaint/) #KDE - Paint Program
-- [Kontrast](https://apps.kde.org/kontrast/) #KDE - A Color Contrast Checker
-- [KPhotoAlbum](https://apps.kde.org/kphotoalbum/) #KDE - Photo Album
-- [Krita](https://apps.kde.org/krita/) #KDE - Digital Painting
-- [KRuler](https://apps.kde.org/kruler/) #KDE - Screen Ruler
-- [KXStitch](https://apps.kde.org/kxstitch/) #KDE - Cross Stitch Editor
-- [LibreCAD](https://github.com/LibreCAD/LibreCAD) #C++ - Open source 2D CAD software
-- [nomacs](https://github.com/nomacs/nomacs) #C++ - Minimalist image viewer with basic editing capabilities
-- [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
-- [Peruse](https://apps.kde.org/peruse/) #KDE - Comic Book Reader
-- [PhotoQt](https://photoqt.org/) #C++ - Highly configurable image viewer with a simple interface and basic editing capabilities
-- [Pix](https://apps.kde.org/pix/) #KDE - Image Gallery
-- [pvfViewer](https://apps.kde.org/pvfviewer/) #KDE - PC Stitch Pattern Viewer
-- [qimgv](https://github.com/easymodo/qimgv) #C++ - Simple image viewer with optional video Support
-- [Scribus](https://github.com/scribusproject/scribus) #C++ - Libre desktop publishing software
+## Image Editors
 - [Showfoto](https://apps.kde.org/showfoto/) #KDE - Photo Viewer and Editor
+- [digiKam](https://apps.kde.org/digikam/) #KDE - Photo Management Program
+
+
+## Image Utilities
+- [Barcode Scanner](https://apps.kde.org/qrca/) #KDE - Barcode Scanner
+- [KGeoTag](https://apps.kde.org/kgeotag/) #KDE - Photo geotagging program
 - [Skanlite](https://apps.kde.org/skanlite/) #KDE - Image Scanning Application
 - [Skanpage](https://apps.kde.org/skanpage/) #KDE - Image Scanning Application
-- [SymbolEditor](https://apps.kde.org/symboleditor/) #KDE - Cross Stitch Symbol Editor
+- [Spectacle](https://apps.kde.org/spectacle/) #KDE - Screenshot Capture Utility
 
 
-## Internet
-- [Akregator](https://apps.kde.org/akregator/) #KDE - Feed Reader
-- [Alligator](https://apps.kde.org/alligator/) #KDE - Feed Reader
-- [Angelfish Web Browser](https://apps.kde.org/angelfish/) #KDE - Web Browser
-- [Choqok](https://apps.kde.org/choqok/) #KDE - Micro-blogging Client
-- [Falkon](https://apps.kde.org/falkon/) #KDE - Web Browser
-- [Kaidan](https://apps.kde.org/kaidan/) #KDE - Jabber IM Client
-- [Kasts](https://apps.kde.org/kasts/) #KDE - Podcast Application
-- [KDE Connect](https://apps.kde.org/kdeconnect/) #KDE - Device Synchronization
-- [KGet](https://apps.kde.org/kget/) #KDE - Download Manager
-- [Kirogi](https://apps.kde.org/kirogi/) #KDE - Drone ground control
-- [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
+## Image Viewers
+- [Gwenview](https://apps.kde.org/gwenview/) #KDE - KDE Image Viewer
+- [Koko](https://apps.kde.org/koko/) #KDE - Image Gallery
 - [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
-- [Konversation](https://apps.kde.org/konversation/) #KDE - IRC Client
-- [Kopete](https://apps.kde.org/kopete/) #KDE - Instant Messenger
-- [KRDC](https://apps.kde.org/krdc/) #KDE - Remote Desktop Client
-- [Krfb](https://apps.kde.org/krfb/) #KDE - Desktop Sharing (VNC)
-- [KTorrent](https://apps.kde.org/ktorrent/) #KDE - BitTorrent Client
-- [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
-- [NeoChat](https://apps.kde.org/neochat/) #KDE - Matrix Client
-- [Phone](https://apps.kde.org/phone.dialer/) #KDE - Send and receive phone calls
-- [PIM Data Exporter](https://apps.kde.org/pimdataexporter/) #KDE - Saves and restores all data from PIM apps
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
-- [qutebrowser](https://www.qutebrowser.org/) #Python - Keyboard-focused browser with a minimal GUI
-- [Ruqola](https://apps.kde.org/ruqola/) #KDE - Rocket.Chat client
-- [Spacebar](https://apps.kde.org/spacebar/) #KDE - SMS/MMS Application
-- [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
+- [KPhotoAlbum](https://apps.kde.org/kphotoalbum/) #KDE - Photo Album
+- [Pix](https://apps.kde.org/pix/) #NX - Image Gallery
+- [qView](https://interversehq.com/qview/) #Independent - Practical and minimal image viewer
+- [Showfoto](https://apps.kde.org/showfoto/) #KDE - Photo Viewer and Editor
+
+
+## Integrated Development Environments
+- [KDevelop](https://apps.kde.org/kdevelop/) #KDE - Integrated Development Environment
+- [KTechlab](https://apps.kde.org/ktechlab/) #KDE - IDE for microcontrollers and electronics
+- [QtCreator](https://github.com/qt-creator/qt-creator) #Independent - A cross-platform Qt IDE
+
+
+## Mail Clients
+- [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
+- [Kontact](https://apps.kde.org/kontact/) #KDE - Personal Information Manager
 - [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
 
-## Medical / Dental
- - [Clear.Dental](https://clear.dental/) An Open Source Dental EHR Suite
 
-## Multimedia
-- [Audex](https://apps.kde.org/audex/) #KDE - CDDA Ripping
-- [AudioTube](https://apps.kde.org/audiotube/) #KDE - Convergent YouTube Music client
-- [Barcode Scanner](https://apps.kde.org/qrca/) #KDE - Barcode Scanner
-- [Dragon Player](https://apps.kde.org/dragonplayer/) #KDE - Video Player
-- [Elisa](https://apps.kde.org/elisa/) #KDE - Music Player
-- [Haruna Video Player](https://apps.kde.org/haruna/) #KDE - Open source video player built with Qt/QML and libmpv.
-- [JuK](https://apps.kde.org/juk/) #KDE - Music Player
-- [K3b](https://apps.kde.org/k3b/) #KDE - Disk Burning
-- [Kaffeine](https://apps.kde.org/kaffeine/) #KDE - Media Player
-- [Kamoso](https://apps.kde.org/kamoso/) #KDE - Camera
-- [Kdenlive](https://apps.kde.org/kdenlive/) #KDE - Video Editor
-- [Kid3](https://apps.kde.org/kid3/) #KDE - Audio Tagger
-- [KMix](https://apps.kde.org/kmix/) #KDE - Sound Mixer
-- [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
-- [Kwave](https://apps.kde.org/kwave/) #KDE - Sound Editor
-- [Plasma Camera](https://apps.kde.org/plasma.camera/) #KDE - Camera Application
-- [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
-- [Plex Media Payer](https://plex.tv) #C++ - Front end for Plex Media Server using Qt and qtwebengine
-- [Qmmp](https://qmmp.ylsoftware.com/) #C++ - Qt based media player
-- [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
-- [SMPlayer](https://www.smplayer.info/) #C++ - A feature-rich and cross platform multimedia player which acts as a GUI for both the MPlayer and MPV multimedia engines
-- [Subtitle Composer](https://apps.kde.org/subtitlecomposer/) #KDE - Subtitle Editor
-- [VLC](https://github.com/videolan/vlc) #C #C++ - An open source and cross platform multimedia player
-- [Vvave](https://apps.kde.org/vvave/) #KDE - Audio Player
+## Medical
+ - [Clear.Dental](https://clear.dental/) #Independent An Open Source Dental EHR Suite
 
 
-## Office
+## Messaging Clients
+- [Kaidan](https://apps.kde.org/kaidan/) #KDE - Jabber IM Client
+- [Konversation](https://apps.kde.org/konversation/) #KDE - IRC Client
+- [Kopete](https://apps.kde.org/kopete/) #KDE - Instant Messenger
+- [NeoChat](https://apps.kde.org/neochat/) #KDE - Matrix Client
+- [Ruqola](https://apps.kde.org/ruqola/) #KDE - Rocket.Chat client
+- [Spacebar](https://apps.kde.org/spacebar/) #KDE - SMS/MMS Application
+
+
+## Miscellaneous
+- [Kirogi](https://apps.kde.org/kirogi/) #KDE - Drone ground control
+- [KMouseTool](https://apps.kde.org/kmousetool/) #KDE - Automatic Mouse Click
+- [Scribus](https://www.scribus.net/) #Independent - Libre desktop publishing software
+
+
+# Modeling
+- [KGraphViewer](https://apps.kde.org/kgraphviewer/) #KDE - Graphviz DOT graph viewer
+- [Umbrello](https://apps.kde.org/umbrello/) #KDE - UML Modeller
+
+
+## Note Taking
 - [Basket](https://apps.kde.org/basket/) #KDE - Notes and to-dos organizer
-- [Calindori](https://apps.kde.org/calindori/) #KDE - Calendar
+- [Buho](https://mauikit.org/apps/buho/) #NX - Notes
+- [KNotes](https://apps.kde.org/knotes/) #KDE - Popup Notes
+- [Zanshin](https://apps.kde.org/zanshin/) #KDE - To Do Management Application
+
+
+## Office Suite
 - [Calligra Sheets](https://apps.kde.org/calligrasheets/) #KDE - Spreadsheet
 - [Calligra Stage](https://apps.kde.org/calligrastage/) #KDE - Presentation
 - [Calligra Words](https://apps.kde.org/calligrawords/) #KDE - Word Processor
-- [KAddressBook](https://apps.kde.org/kaddressbook/) #KDE - Contact Manager
-- [Kalendar](https://apps.kde.org/kalendar/) #KDE - Calendar application
-- [KBibTeX](https://apps.kde.org/kbibtex/) #KDE - BibTeX Editor
-- [KDE Itinerary](https://apps.kde.org/itinerary/) #KDE - Itinerary management
-- [KEuroCalc](https://apps.kde.org/keurocalc/) #KDE - Currency converter and calculator
-- [KEXI](https://apps.kde.org/kexi-3.3/) #KDE - Visual database apps builder
-- [Kile](https://apps.kde.org/kile/) #KDE - LaTeX Frontend
-- [KItinerary Command Line Extractor](https://apps.kde.org/kitinerary-extractor/) #KDE - KItinerary command line extractor
-- [KMail](https://apps.kde.org/kmail2/) #KDE - Mail Client
-- [KMyMoney](https://apps.kde.org/kmymoney/) #KDE - Personal Finance Manager
 - [Kongress](https://apps.kde.org/kongress/) #KDE - Conference Companion
-- [Kontact](https://apps.kde.org/kontact/) #KDE - Personal Information Manager
-- [KOrganizer](https://apps.kde.org/korganizer/) #KDE - Personal Organizer
-- [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
-- [Lokalize](https://apps.kde.org/lokalize/) #KDE - Computer-Aided Translation System
-- [Okular](https://apps.kde.org/okular/) #KDE - Document Viewer
-- [Phonebook](https://apps.kde.org/phonebook/) #KDE - View and edit contacts
 - [Plan](https://apps.kde.org/calligraplan/) #KDE - Project Management
-- [Skrooge](https://apps.kde.org/skrooge/) #KDE - Manage your money
+
+
+# Painting
+- [KolourPaint](https://apps.kde.org/kolourpaint/) #KDE - Paint Program
+- [Krita](https://apps.kde.org/krita/) #KDE - Digital Painting
+
+
+## Password Managers
+- [KeePassXC](https://keepassxc.org/) #Independent - Cross-Platform Password Manager
+- [KWalletManager](https://apps.kde.org/kwalletmanager5/) #KDE - KDE Wallet Management Tool
+- [QtPass](https://qtpass.org/) #Independent - GUI for pass, the standard UNIX password manager
+
+
+## Personal
+- [Communicator](https://mauikit.org/apps/communicator/) #NX - Contacts Manager
+- [KAddressBook](https://apps.kde.org/kaddressbook/) #KDE - Contact Manager
+- [Kontact](https://apps.kde.org/kontact/) #KDE - Personal Information Manager
+- [Kookbook](https://apps.kde.org/kookbook/) #KDE - Recipe manager
+- [KOrganizer](https://apps.kde.org/korganizer/) #KDE - Personal Organizer
+- [PIM Data Exporter](https://apps.kde.org/pimdataexporter/) #KDE - Saves and restores all data from PIM apps
+- [Phone](https://apps.kde.org/phone.dialer/) #KDE - Send and receive phone calls
+- [Phonebook](https://apps.kde.org/phonebook/) #KDE - View and edit contact
+- [RSI Break](https://apps.kde.org/rsibreak/) #KDE - Help prevent repetitive strain injury
 - [Tellico](https://apps.kde.org/tellico/) #KDE - Collection Manager
-- [Trojitá](https://apps.kde.org/trojita/) #KDE - IMAP E-mail Client
+- [Vakzination](https://apps.kde.org/vakzination/) #KDE - Manage your vaccination certificates
 
 
-## System
+## Service Clients
+- [Akregator](https://apps.kde.org/akregator/) #KDE - Feed Reader
+- [Alligator](https://apps.kde.org/alligator/) #KDE - Feed Reader
+- [Choqok](https://apps.kde.org/choqok/) #KDE - Micro-blogging Client
+- [Kasts](https://apps.kde.org/kasts/) #KDE - Podcast Application
+- [Tokodon](https://apps.kde.org/tokodon/) #KDE - Mastodon Client
+
+
+## Software Management
 - [Apper](https://apps.kde.org/apper/) #KDE - Software Management
 - [Discover](https://apps.kde.org/discover/) #KDE - Software Center
-- [Dolphin](https://apps.kde.org/dolphin/) #KDE - File Manager
-- [Ikona](https://apps.kde.org/ikona/) #KDE - Icon Preview Utility
-- [Index](https://apps.kde.org/index-fm/) #KDE - File Manager
-- [ISO Image Writer](https://apps.kde.org/isoimagewriter/) #KDE - Write an ISO Image to a USB Disk
-- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) #KDE - Partition Editor
-- [KDiskFree](https://apps.kde.org/kdf/) #KDE - View Disk Usage
-- [KeePassXC](https://keepassxc.org/) #C++ - Cross-Platform Password Manager
-- [Konsole](https://apps.kde.org/konsole/) #KDE - Terminal
+- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Package Manager
+
+
+## System Monitoring
 - [KSysGuard](https://apps.kde.org/ksysguard/) #KDE - System Monitor
 - [KSystemLog](https://apps.kde.org/ksystemlog/) #KDE - System Log Viewer
-- [KWalletManager](https://apps.kde.org/kwalletmanager5/) #KDE - KDE Wallet Management Tool
-- [liquidshell](https://apps.kde.org/liquidshell/) #KDE - liquidshell is an alternative to plasmashell
-- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Graphical Package Manager For Debian and Ubuntu-based Linux Distributions. 
 - [Plasma System Monitor](https://apps.kde.org/plasma-systemmonitor/) #KDE - System Monitor
+
+
+## Terminal Emulators
+- [Konsole](https://apps.kde.org/konsole/) #KDE - Terminal
 - [QMLKonsole](https://apps.kde.org/mobile.qmlkonsole/) #KDE - Terminal
-- [QtPass](https://qtpass.org/) #C++ - GUI for pass, the standard UNIX password manager
+- [Station](https://mauikit.org/apps/station/) #NX - Terminal Emulator
 - [Yakuake](https://apps.kde.org/yakuake/) #KDE - Drop-down Terminal
 
 
-## Utilities
-- [Ark](https://apps.kde.org/ark/) #KDE - Archiving Tool
-- [Calculator](https://apps.kde.org/kalk/) #KDE - A feature rich calculator
-- [Calindori](https://apps.kde.org/calindori/) #KDE - Calendar
-- [Clock](https://apps.kde.org/kclock/) #KDE - Set alarms and timers, use a stopwatch, and manage world clocks
-- [Filelight](https://apps.kde.org/filelight/) #KDE - Disk Usage Statistics
-- [KAlarm](https://apps.kde.org/kalarm/) #KDE - Personal Alarm Scheduler
+## Text Editors
 - [Kate](https://apps.kde.org/kate/) #KDE - Advanced Text Editor
-- [KBackup](https://apps.kde.org/kbackup/) #KDE - Backup Program
-- [KCalc](https://apps.kde.org/kcalc/) #KDE - Scientific Calculator
-- [KCharSelect](https://apps.kde.org/kcharselect/) #KDE - Character Selector
-- [KDE Itinerary](https://apps.kde.org/itinerary/) #KDE - Itinerary management
-- [Keysmith](https://apps.kde.org/keysmith/) #KDE - Two-factor code generator for Plasma Mobile and Desktop
-- [KFind](https://apps.kde.org/kfind/) #KDE - Find Files/Folders
-- [KFloppy](https://apps.kde.org/kfloppy/) #KDE - Floppy Formatter
-- [KGpg](https://apps.kde.org/kgpg/) #KDE - Encryption Tool
-- [KItinerary Command Line Extractor](https://apps.kde.org/kitinerary-extractor/) #KDE - KItinerary command line extractor
-- [Kleopatra](https://apps.kde.org/kleopatra/) #KDE - Certificate Manager and Unified Crypto GUI
-- [KMag](https://apps.kde.org/kmag/) #KDE - Screen Magnifier
-- [KMouseTool](https://apps.kde.org/kmousetool/) #KDE - Automatic Mouse Click
-- [KMouth](https://apps.kde.org/kmouth/) #KDE - Speech Synthesizer Frontend
-- [KNotes](https://apps.kde.org/knotes/) #KDE - Popup Notes
-- [Kookbook](https://apps.kde.org/kookbook/) #KDE - Recipe manager
-- [KRename](https://apps.kde.org/krename/) #KDE - Batch File Renamer
-- [Kronometer](https://apps.kde.org/kronometer/) #KDE - Chronometer
-- [Krusader](https://apps.kde.org/krusader/) #KDE - File Manager
-- [KTeaTime](https://apps.kde.org/kteatime/) #KDE - Tea Cooker
-- [KTimer](https://apps.kde.org/ktimer/) #KDE - Countdown Launcher
-- [KTimeTracker](https://apps.kde.org/ktimetracker/) #KDE - Personal Time Tracker
-- [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
+- [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
 - [KWrite](https://apps.kde.org/kwrite/) #KDE - Text Editor
-- [Nota](https://apps.kde.org/nota/) #KDE - Simple Text Editor
-- [Okteta](https://apps.kde.org/okteta/) #KDE - Hex Editor
-- [Recorder](https://apps.kde.org/krecorder/) #KDE - Audio recorder
-- [RSI Break](https://apps.kde.org/rsibreak/) #KDE - Help prevent repetitive strain injury
-- [Smb4K](https://apps.kde.org/smb4k/) #KDE - Advanced Network Browser for SAMBA
-- [Spectacle](https://apps.kde.org/spectacle/) #KDE - Screenshot Capture Utility
-- [Sweeper](https://apps.kde.org/sweeper/) #KDE - System Cleaner
-- [Vakzination](https://apps.kde.org/vakzination/) #KDE - Manage your vaccination certificates
-- [Vorta](https://vorta.borgbase.com/) #Python - Backup client and frontend to [BorgBackup](https://www.borgbackup.org/) for macOS and Linux desktops
+- [Nota](https://apps.kde.org/nota/) #NX - Simple Text Editor
+
+
+## Text Utilities
+- [KCharSelect](https://apps.kde.org/kcharselect/) #KDE - Character Selector
+- [Lokalize](https://apps.kde.org/lokalize/) #KDE - Computer-Aided Translation System
+
+
+## Torrent Clients
+- [KTorrent](https://apps.kde.org/ktorrent/) #KDE - BitTorrent Client
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) #C++ - An open source BitTorrent client
+
+
+## Travel
+- [KDE Itinerary](https://apps.kde.org/itinerary/) #KDE - Itinerary management
+- [KTrip](https://apps.kde.org/ktrip/) #KDE - Public transport navigator
 - [Weather](https://apps.kde.org/kweather/) #KDE - View real-time weather forecasts and other information
-- [Yubikey-manager-qt](https://developers.yubico.com/yubikey-manager-qt/) #C++ - Manager application for USB Yubikeys
-- [Yubioath-desktop](https://developers.yubico.com/yubioath-desktop/) #Python - Utility for generating OATH TOTP and HOTP one-time password codes for Yubikeys
-- [Zanshin](https://apps.kde.org/zanshin/) #KDE - To Do Management Application
+
+
+## Video Editors
+- [Kaffeine](https://apps.kde.org/kaffeine/) #KDE - Media Player
+- [Kdenlive](https://apps.kde.org/kdenlive/) #KDE - Video Editor
+
+
+## Video Players
+- [Clip](https://mauikit.org/apps/clip/) #NX - Video Player
+- [Dragon Player](https://apps.kde.org/dragonplayer/) #KDE - Video Player
+- [Haruna Video Player](https://apps.kde.org/haruna/) #KDE - Open source video player built with Qt/QML and libmpv.
+- [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
+- [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
+- [VLC](https://github.com/videolan/vlc) #Independent - An open source and cross platform multimedia player
+
+
+## Video Utilities
+- [K3b](https://apps.kde.org/k3b/) #KDE - Disk Burning
+- [Subtitle Composer](https://apps.kde.org/subtitlecomposer/) #KDE - Subtitle Editor
+
+
+## Web Browsers
+- [Angelfish Web Browser](https://apps.kde.org/angelfish/) #KDE - Web Browser
+- [Falkon](https://apps.kde.org/falkon/) #KDE - Web Browser
+- [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
+- [qutebrowser](https://www.qutebrowser.org/) #Independent - Keyboard-focused browser with a minimal GUI
