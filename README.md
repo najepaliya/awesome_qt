@@ -122,6 +122,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [KRename](https://apps.kde.org/krename/) #KDE - Batch File Renamer
 - [Smb4K](https://apps.kde.org/smb4k/) #KDE - Advanced Network Browser for SAMBA
 - [Sweeper](https://apps.kde.org/sweeper/) #KDE - System Cleaner
+- [Vorta](https://vorta.borgbase.com/) #Independent - Backup client and front-end to [BorgBackup](https://www.borgbackup.org/) for macOS and Linux desktops
 
 
 ## Document Viewers
@@ -248,8 +249,10 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Koko](https://apps.kde.org/koko/) #KDE - Image Gallery
 - [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
 - [KPhotoAlbum](https://apps.kde.org/kphotoalbum/) #KDE - Photo Album
+- [nomacs](https://github.com/nomacs/nomacs) #Independent - Minimalist image viewer with basic editing capabilities
 - [PhotoQt](https://photoqt.org/) #Independent - Highly configurable image viewer with a simple interface and basic editing capabilities
 - [Pix](https://apps.kde.org/pix/) #NX - Image Gallery
+- [qimgv](https://github.com/easymodo/qimgv) #Independent - Simple image viewer with optional video Support
 - [qView](https://interversehq.com/qview/) #Independent - Practical and minimal image viewer
 - [Showfoto](https://apps.kde.org/showfoto/) #KDE - Photo Viewer and Editor
 
@@ -341,7 +344,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 ## Software Management
 - [Apper](https://apps.kde.org/apper/) #KDE - Software Management
 - [Discover](https://apps.kde.org/discover/) #KDE - Software Center
-- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Package Manager
+- [Muon Package Manager](https://apps.kde.org/muon/) #KDE - Graphical package manager for Debian and Ubuntu-based Linux distributions
 
 
 ## System Monitoring
@@ -391,6 +394,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Haruna Video Player](https://apps.kde.org/haruna/) #KDE - Open source video player built with Qt/QML and libmpv.
 - [KMPlayer](https://apps.kde.org/kmplayer/) #KDE - Media Player
 - [PlasmaTube](https://apps.kde.org/plasmatube/) #KDE - Watch YouTube videos
+- [SMPlayer](https://www.smplayer.info/) #Independent - A cross platform multimedia player and front-end to MPlayer and MPV
 - [VLC](https://github.com/videolan/vlc) #Independent - An open source and cross platform multimedia player
 
 
@@ -403,3 +407,4 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [Angelfish Web Browser](https://apps.kde.org/angelfish/) #KDE - Web Browser
 - [Falkon](https://apps.kde.org/falkon/) #KDE - Web Browser
 - [Konqueror](https://apps.kde.org/konqueror/) #KDE - Web Browser, File Manager and Viewer
+- [qutebrowser](https://www.qutebrowser.org/) #Independent - Keyboard-focused browser with a minimal GUI
