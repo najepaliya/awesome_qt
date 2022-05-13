@@ -289,6 +289,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) #Independent - Tool for managing installation of the various JetBrains IDEs and applications
 - [Kirogi](https://apps.kde.org/kirogi/) #KDE - Drone ground control
 - [KMouseTool](https://apps.kde.org/kmousetool/) #KDE - Automatic Mouse Click
+- [Lola](https://lola.dev) #Independent - Tool for AWS (Serverless) Developers
 - [Scribus](https://www.scribus.net/) #Independent - Libre desktop publishing software
 
 
