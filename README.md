@@ -52,7 +52,7 @@ A comprehensive list of applications made with the cross platform Qt framework.
 
 ## Calendars
 - [Calindori](https://apps.kde.org/calindori/) #KDE - Calendar
-- [Kalendar](https://apps.kde.org/kalendar/) #KDE - Calendar application
+- [Merkuro Calendar](https://apps.kde.org/merkuro.calendar/) #KDE - Calendar application
 - [Kontact](https://apps.kde.org/kontact/) #KDE - Personal Information Manager
 
 
